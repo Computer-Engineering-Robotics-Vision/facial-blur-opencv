@@ -1,6 +1,9 @@
 # Facial Blurring with OpenCV
 
-This project blurs faces in videos using OpenCV in Python with an accuracy of about 75%. The blurring technique used is `Gaussian Blur`:
+This project blurs faces in videos using OpenCV in Python with an accuracy of about 75%. The blurring technique used is `Gaussian Blur`.
+
+To run this on Google Colab: 
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 120px;"/>](https://colab.research.google.com/drive/13yIipWoXcbyuNn-NaFE3aNFZh5A7t6Qp?usp=sharing)
 
 
 ## Requirements
