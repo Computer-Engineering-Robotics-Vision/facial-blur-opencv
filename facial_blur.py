@@ -138,9 +138,6 @@ for video_file in video_files:
         # Write the frame to the output video
         out.write(frame)
 
-        # show the output frame
-        cv2.imshow("Frame", frame)
-
         # if the `q` key was pressed, break from the loop
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
